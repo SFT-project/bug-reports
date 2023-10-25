@@ -28,6 +28,8 @@ If applicable, add screenshots to help explain your problem.
  - Wallet：[e.g. Metamask, TokenPocket]
  - Wallet Address: [e.g. 0x]
  
-**Additional context**
- - Wallet Address for Airdrop：[e.g. 0x]
+**Additional context** 
 Add any other context about the problem here.
+
+**If apply, you will get an airdrop**
+Wallet Address for Airdrop：[e.g. 0x]

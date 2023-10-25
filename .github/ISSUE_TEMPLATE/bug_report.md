@@ -25,8 +25,9 @@ If applicable, add screenshots to help explain your problem.
 
 ** (please complete the following information):**
  - Device: [e.g. iPhone6]
- - Wallet [e.g. Metamask, TokenPocket]
- - Address: [e.g. 0x]
-
+ - Wallet：[e.g. Metamask, TokenPocket]
+ - Wallet Address: [e.g. 0x]
+ 
 **Additional context**
+ - Wallet Address for Airdrop：[e.g. 0x]
 Add any other context about the problem here.
